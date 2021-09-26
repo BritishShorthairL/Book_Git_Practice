@@ -1,0 +1,8 @@
+
+
+SoftSkills2
+
+It takes some time to agree on a final version of changes. Once it’s agreed upon, the pull request is accepted and merged to the main branch. Once it’s decided that the main branch has reached enough maturity to be released, a separate branch is created to prepare the final version. The application from this branch is tested and bug fixes are applied up to the moment that it’s ready to be published to final users. Once that is done, we merge the final product to the master branch and tag it with the release version. In the meantime, new features can be developed on the develop branch.
+
+Below, you can see Git flow diagram, depicting a general workflow:
+
