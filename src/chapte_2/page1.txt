@@ -2,5 +2,6 @@
 SoftSkills1
 In the Git flow development model, you have one main development branch with strict access to it. It’s often called the develop branch.
 
-Developers create feature branches from this main branch and work on them. Once they are done, they create pull requests. In pull requests, other developers comment on changes and may have discussions, often quite lengthy ones.
+Developers create feature branches from this main branch and work on them. Once they are done, they create pull requests. In pull requests, other developers comment on changes and may have discussions, often quite lengthy ones
 
+message was change
